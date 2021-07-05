@@ -10,6 +10,8 @@
 * VHDL 
 * Bash
 
+[![ROBOTICS](https://img.youtube.com/vi/NQcIwR0BVVg&ab_channel=KasperGr%C3%B8ntved/0.jpg)](https://www.youtube.com/watch?v=NQcIwR0BVVg&ab_channel=KasperGr%C3%B8ntved)
+
 ### Overview
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasperg3&hide=contribs&count_private=true&show_icons=true,prs)
 
