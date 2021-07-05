@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Kasper Grøntved
+- 👯 Currently working full time in the fuel pricing industry
+- 🔭 Off work I’m working on deploying reinforcement learning models onto an ESP32 microcontroller
+- ⚡ My goal for 2021 is to contribute more to open-source projects
 
-<!--
-**kasperg3/kasperg3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills 
+* C/C++
+* Python
+* Java 
+* VHDL 
+* Bash
 
-Here are some ideas to get you started:
+### Overview
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasperg3&hide=contribs&count_private=true&show_icons=true,prs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
