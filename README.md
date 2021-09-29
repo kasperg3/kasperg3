@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kasper Grøntved
 - 👯 Currently working full time in the fuel pricing industry
-- 🔭 Off work I’m working on deploying reinforcement learning models onto an ESP32 microcontroller
+- 🔭 Off work I’m working on IOT and reinforcementlearning on embedded devices
 - ⚡ My goal for 2021 is to contribute to more open-source projects
 
 ### Skills 
