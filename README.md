@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Kasper Grøntved
-- 👯 Currently working full time in the fuel pricing industry
-- 🔭 Off work I’m working on IOT and reinforcementlearning on embedded devices
-- ⚡ My goal for 2021 is to contribute to more open-source projects
+- 👯 Currently doing a phd in swarm robotics at the University of Southern Denmark
+- ⚡ My goal for 2022 is to contribute to the open-source robotics community
 
 ### Skills 
 * C/C++
