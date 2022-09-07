@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Kasper Grøntved
-- 👯 Currently doing a phd in swarm robotics at the University of Southern Denmark
+- 👯 I am currently employed as a full time Ph.D. candidate at the Biorobotics unit at the University of Southern Denmark
 - ⚡ My goal for 2022 is to contribute to the open-source robotics community
 
 ### Skills 
@@ -8,6 +8,10 @@
 * Java 
 * VHDL 
 * Bash
+
+### More!
+Visit my site to follow along: 
+https://blog.grontved.dk
 
 ### Overview
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasperg3&hide=contribs&count_private=true&show_icons=true,prs)
