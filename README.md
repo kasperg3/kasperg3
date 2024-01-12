@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kasper Grøntved
-- 👯 I am currently employed as a full time Ph.D. candidate at the Biorobotics unit at the University of Southern Denmark
-- ⚡ My goal for 2022 is to contribute to the open-source robotics community
+- 👯 I am currently employed as a full time Ph.D. candidate at the UAS Center at the University of Southern Denmark
+- ⚡ My goal for 2024 is to contribute to the open-source robotics community
 
 ### Skills 
 * C/C++
